@@ -1,0 +1,3 @@
+DB - saikat8_gaddash_test_db
+user - saikat8_gaddash_test_user
+pw - #~3ShJ1c;qxy

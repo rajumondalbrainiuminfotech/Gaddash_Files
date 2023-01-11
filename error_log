@@ -1,0 +1,2 @@
+[05-Jan-2023 07:39:51 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in /home/saikat8/public_html/abhisek/gaddash/vendor/composer/platform_check.php on line 24
+[05-Jan-2023 07:40:00 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in /home/saikat8/public_html/abhisek/gaddash/vendor/composer/platform_check.php on line 24
